@@ -1,5 +1,6 @@
-'ISSUE REPORT/SUGGESTION'
+ISSUE REPORT
 - 'MODPACK VERSION'
-- 'ISSUE/SUGGESTION'
+- 'ISSUE'
+- 'HOW TO COME ACROSS ISSUE'
 
-Visual presentation of the problem or suggestion is welcome if possible.
+Include visual presentation of the problem if possible.
